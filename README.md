@@ -11,9 +11,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
-
-Ajout d'un autre prérequis
+Installation Java 21
+Installation FWM 14c
 
 ```
 
